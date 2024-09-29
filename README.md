@@ -40,23 +40,16 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,git,github,vscode,figma,html,css,js,bootstrap,tailwind,react,redux,nodejs,express,postman,mysql,mongodb,typescript,next,firebase,docker,materialui,npm,powershell,replit,stackoverflow,vite"/>
   </a>
 </p>
-
-<br>
-
 <div align="center">
    
 ### 📫 Love what I do? 
 </div>
 
-<br>
-
 <p align="center">💙 If you like my projects, Give them ⭐ and Share them!</p>
-
 <div align="center">
    
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rachitkatariya-19&left_color=Purple&right_color=#e754808)
 
-                
 </div>
 
 <p align="center">Made with ❤️ in India</p>

@@ -4,23 +4,12 @@
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-16.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rachitkatariya/)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCbW63uLlDnsL7l992Z9nF_Q?style=social)](https://www.youtube.com/@rachitkatariya)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rachitkatariyaa?style=social)](https://twitter.com/rachitkatariyaa)
-[![Github](https://img.shields.io/github/followers/rachitkatariya?label=Follow&style=social)](https://github.com/rachitkatariya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=social&logo=leetcode)](https://leetcode.com/rachitkatariya)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=social&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/rachitkatariya)
-[![Codechef](https://img.shields.io/badge/Codechef-Profile-orange?style=social&logo=codechef)](https://www.codechef.com/rachitkatariya)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-yellow?style=social&logo=stackoverflow)](https://stackoverflow.com/users/rachitkatariya)
-
-![Profile Count](https://komarev.com/ghpvc/?username=rachitkatariya)
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-16.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rachitkatariya/)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCbW63uLlDnsL7l992Z9nF_Q?style=social)](https://www.youtube.com/@rachitkatariya)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rachitkatariyaa?style=social)](https://twitter.com/rachitkatariyaa)
 
 [![Github](https://img.shields.io/github/followers/rachitkatariya?label=Follow&style=social)](https://github.com/rachitkatariya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=social&logo=leetcode)](https://leetcode.com/rachitkatariya)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=social&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/rachitkatariya)
-[![Codechef](https://img.shields.io/badge/Codechef-Profile-orange?style=social&logo=codechef)](https://www.codechef.com/rachitkatariya)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-yellow?style=social&logo=stackoverflow)](https://stackoverflow.com/users/rachitkatariya)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-blue?style=social&logo=leetcode)](https://leetcode.com/rachitkatariya)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-green?style=social&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/rachitkatariya)
+[![Codechef](https://img.shields.io/badge/Codechef-orange?style=social&logo=codechef)](https://www.codechef.com/rachitkatariya)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-yellow?style=social&logo=stackoverflow)](https://stackoverflow.com/users/rachitkatariya)
 
 <div align="center">
   <img src="https://media1.giphy.com/media/jTMw980OBX5YEAulPm/200w.webp?cid=ecf05e47j9zw1kwjhpjfz4gl5081x8mumvwrmjlzomk0e7na&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100px"/>

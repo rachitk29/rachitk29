@@ -1,8 +1,8 @@
 # hey, I'm rachit 
 
 ![Profile Count](https://komarev.com/ghpvc/?username=rachitkatariya)
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-16.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rachitkatariya/)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCbW63uLlDnsL7l992Z9nF_Q?style=social)](https://www.youtube.com/@rachitkatariya)
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-1.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rachitkatariya/)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCbW63uLlDnsL7l992Z9nF_Q?style=social)](https://www.youtube.com/@rachitkatariya)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rachitkatariyaa?style=social)](https://twitter.com/rachitkatariyaa)
 
 [![Github](https://img.shields.io/github/followers/rachitkatariya?label=Follow&style=social)](https://github.com/rachitkatariya)

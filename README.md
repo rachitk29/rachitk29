@@ -31,18 +31,20 @@
 ###      Check out my portfolio
  **Here** : [Portfolio Link](https://rachitkatariya.github.io/myportfolio/)
 
- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rachitkatariyaa"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhav6122004" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/rachitkatariya/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anubhav-sharma-1772b4215/" height="30" width="40" /></a>
-<a href="https://medium.com/@anubhavsharma06dec"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anubhavsharma06dec" height="30" width="40" /></a>
-<a href="https://www.codechef.com/rachitkatariya"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/anubhavsharma0" height="30" width="40" /></a>
-<a href="https://leetcode.com/rachitkatariya"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tech-in-tech/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org//rachitkatariya/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/anubhavsharma06dec/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/rachitkataraiya"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19367704/anubhav-sharma" height="30" width="40" /></a>
+  [![Github](https://img.shields.io/github/followers/rachitkatariya?label=Follow&style=social)](https://github.com/rachitkatariya)
+  ![Profile Count](https://komarev.com/ghpvc/?username=rachitkatariya)
+  [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCbW63uLlDnsL7l992Z9nF_Q?style=social)](https://www.youtube.com/@rachitkatariya)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/rachitkatariyaa?style=social)](https://twitter.com/rachitkatariyaa)
+  [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-16.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rachitkatariya/)
+  [![Codechef](https://img.shields.io/badge/Codechef-Profile-orange?style=social&logo=codechef)](https://www.codechef.com/rachitkatariya)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=social&logo=leetcode)](https://leetcode.com/rachitkatariya)
+  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=social&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/rachitkatariya)
+  [![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-yellow?style=social&logo=stackoverflow)](https://stackoverflow.com/users/rachitkatariya)
 </p>
 
-</p>
+
 <br>
 
 ### 🛠️ Languages and Tools

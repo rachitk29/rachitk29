@@ -1,6 +1,6 @@
 # hey, I'm rachit 
 
-[![Github](https://img.shields.io/github/followers/Prince-1501?label=Follow&style=social)](https://github.com/rachitkatariya)
+[![Github](https://img.shields.io/github/followers/rachitkatariyaa?label=Follow&style=social)](https://github.com/rachitkatariya)
 ![Profile Count](https://komarev.com/ghpvc/?username=rachitkatariya) 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCbW63uLlDnsL7l992Z9nF_Q?style=social)](https://www.youtube.com/@rachitkatariya)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rachitkatariyaa?style=social)](https://twitter.com/rachitkatariyaa) 
@@ -44,7 +44,6 @@
   [![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-yellow?style=social&logo=stackoverflow)](https://stackoverflow.com/users/rachitkatariya)
 </p>
 
-
 <br>
 
 ### 🛠️ Languages and Tools
@@ -66,3 +65,44 @@
 </div>
 
 <p align="center">Made with ❤️ in India</p>
+
+### Connect with me:
+[![Github](https://img.shields.io/github/followers/rachitkatariya?label=Follow&style=social)](https://github.com/rachitkatariya)
+![Profile Count](https://komarev.com/ghpvc/?username=rachitkatariya)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCbW63uLlDnsL7l992Z9nF_Q?style=social)](https://www.youtube.com/@rachitkatariya)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rachitkatariyaa?style=social)](https://twitter.com/rachitkatariyaa)
+[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-16.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rachitkatariya/)
+[![Codechef](https://img.shields.io/badge/Codechef-Profile-orange?style=social&logo=codechef)](https://www.codechef.com/rachitkatariya)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=social&logo=leetcode)](https://leetcode.com/rachitkatariya)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=social&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/rachitkatariya)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Profile-yellow?style=social&logo=stackoverflow)](https://stackoverflow.com/users/rachitkatariya)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/rachitkatariya">
+    <img src="https://img.shields.io/github/followers/rachitkatariya?label=Follow&style=social" alt="Github Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rachitkatariya" alt="Profile Count"/>
+  <a href="https://www.youtube.com/@rachitkatariya">
+    <img src="https://img.shields.io/youtube/channel/views/UCbW63uLlDnsL7l992Z9nF_Q?style=social" alt="YouTube Channel Views"/>
+  </a>
+  <a href="https://twitter.com/rachitkatariyaa">
+    <img src="https://img.shields.io/twitter/follow/rachitkatariyaa?style=social" alt="Twitter Followers"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rachitkatariya/">
+    <img src="https://img.shields.io/badge/LinkedIn-16.7k-blue?style=social&logo=linkedin" alt="LinkedIn Followers"/>
+  </a>
+  <a href="https://www.codechef.com/rachitkatariya">
+    <img src="https://img.shields.io/badge/Codechef-Profile-orange?style=social&logo=codechef" alt="Codechef Profile"/>
+  </a>
+  <a href="https://leetcode.com/rachitkatariya">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-blue?style=social&logo=leetcode" alt="LeetCode Profile"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/rachitkatariya">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=social&logo=geeksforgeeks" alt="GeeksforGeeks Profile"/>
+  </a>
+  <a href="https://stackoverflow.com/users/rachitkatariya">
+    <img src="https://img.shields.io/badge/StackOverflow-Profile-yellow?style=social&logo=stackoverflow" alt="StackOverflow Profile"/>
+  </a>
+</p>

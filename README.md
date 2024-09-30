@@ -1,5 +1,6 @@
 # hey, I'm rachit 
 
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-brightgreen)
 ![Profile Count](https://komarev.com/ghpvc/?username=rachitkatariya)
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-1.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rachitkatariya/)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCbW63uLlDnsL7l992Z9nF_Q?style=social)](https://www.youtube.com/@rachitkatariya)

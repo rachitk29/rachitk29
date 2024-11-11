@@ -5,6 +5,7 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCbW63uLlDnsL7l992Z9nF_Q?style=social)](https://www.youtube.com/@rachitkatariya)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rachitkatariyaa?style=social)](https://twitter.com/rachitkatariyaa)
 
+[![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=social&logo=codeforces)](https://codeforces.com/profile/rachitkatariya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-yellow?style=social&logo=leetcode)](https://leetcode.com/rachitkatariya)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-green?style=social&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/rachitkatariya)
 [![Codechef](https://img.shields.io/badge/Codechef-orange?style=social&logo=codechef)](https://www.codechef.com/rachitkatariya)

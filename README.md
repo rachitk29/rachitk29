@@ -17,9 +17,7 @@
   <img src="https://media1.giphy.com/media/jTMw980OBX5YEAulPm/200w.webp?cid=ecf05e47j9zw1kwjhpjfz4gl5081x8mumvwrmjlzomk0e7na&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100px"/>
 </div>
 
-
->A passionate Frontend Web Developer from India <br>
->👩‍💻 Computer Science Student | 💻 Frontend Developer | UI/UX   
+> aspiring SDE <br>
 
 <br>
 

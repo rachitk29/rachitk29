@@ -21,10 +21,8 @@
 
 <br>
 
-- Hello folks, I'm a Frontend Developer 🚀
+- Hello folks 🚀
 - Engrossed in Coding ⚡, Web Designing, and Development
-- Currently learning backend in nodejs
-- I'm fluent in C++ and weave magic with 💛 JavaScript 
 - Eager to collaborate on meaningful projects that create a real difference 💞️
 - Reach me at 📫 [email for work](rachitkumar2953@gmail.com) / [Other links](https://linktr.ee/rachitkatariya)
 

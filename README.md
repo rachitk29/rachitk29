@@ -18,6 +18,7 @@
 </div>
 
 > aspiring SDE <br>
+> DSA | Development | Design | 📊
 
 <br>
 

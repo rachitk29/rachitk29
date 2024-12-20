@@ -24,13 +24,13 @@
 - Hello folks 🚀
 - Engrossed in Coding ⚡, Web Designing, and Development
 - Eager to collaborate on meaningful projects that create a real difference 💞️
-- Reach me at 📫 [email for work](rachitkumar2953@gmail.com) / [Other links](https://linktr.ee/rachitkatariya)
+- Reach me at 📫 [email for work](rachitkumar2953@gmail.com)
 
 </div>
 </div>
 
 ###      Check out my portfolio
- **Here** : [Portfolio Link](https://rachitkatariya.github.io/myportfolio/)
+ **Here** : [Portfolio Link](https://rachitkatariya.netlify.app/)
 
 ### 🛠️ Languages and Tools
 <p>

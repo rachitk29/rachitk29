@@ -18,8 +18,7 @@
 </div>
 
 > aspiring SDE <br>
-> DSA | Development | Design | 📊
-
+> 📊 | CF 800+ newBie | LC 1400+ | DSA | Development | Design
 <br>
 
 - Hello folks 🚀

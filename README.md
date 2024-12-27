@@ -18,14 +18,12 @@
 </div>
 
 > aspiring SDE <br>
-> 📊 | CF 800+ newBie | LC 1400+ | DSA | Development | Design
+> 📊 | CF 800+ newBie | LC 1400+
 <br>
 
-- Hello folks 🚀
-- Engrossed in Coding ⚡, Web Designing, and Development
-- Eager to collaborate on meaningful projects that create a real difference 💞️
+- hey folks 🚀
+- DSA | Development | Design
 - Reach me at 📫 [email for work](rachitkumar2953@gmail.com)
-
 </div>
 </div>
 

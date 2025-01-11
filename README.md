@@ -18,7 +18,6 @@
 </div>
 
 > aspiring SDE <br>
-> 📊 | CF 800+ newBie | LC 1400+
 <br>
 
 - hey folks 🚀

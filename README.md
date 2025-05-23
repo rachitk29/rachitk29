@@ -3,7 +3,7 @@
 ![Profile Count](https://komarev.com/ghpvc/?username=rachitkatariya)
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-1.7k-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rachitkatariya/)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCbW63uLlDnsL7l992Z9nF_Q?style=social)](https://www.youtube.com/@rachitkatariya)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rachitkatariyaa?style=social)](https://twitter.com/rachitkdev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rachitkdev?style=social)](https://twitter.com/rachitkdev)
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=social&logo=codeforces)](https://codeforces.com/profile/rachitkatariya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-yellow?style=social&logo=leetcode)](https://leetcode.com/rachitkatariya)

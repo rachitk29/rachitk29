@@ -26,10 +26,10 @@
 </div>
 </div>
 
-<!-- ###      Check out my portfolio
- **Here** : [Portfolio Link](https://rachitkatariya.netlify.app/)
+###      Check out my portfolio
+ **Here** : [Portfolio Link](rachitk.vercel.app)
 
-### 🛠️ Languages and Tools -->
+### 🛠️ Languages and Tools 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,git,github,vscode,figma,html,css,js,bootstrap,tailwind,react,redux,nodejs,express,postman,mysql,mongodb,typescript,next,firebase,docker,materialui,npm,powershell,replit,stackoverflow,vite"/>

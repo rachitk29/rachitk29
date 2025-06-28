@@ -26,7 +26,7 @@
 </div>
 
 <!--###      Check out my portfolio -->
- **👉** : [portfolio link](rachitk.vercel.app)
+ **here** : [portfolio link](rachitk.vercel.app)
 
 ### languages and tools 
 <p>

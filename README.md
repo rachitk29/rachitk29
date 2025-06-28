@@ -20,8 +20,7 @@
 - hey folks 🚀  
 - DSA | Development | Design  
 - 🗂️ reach me here at [email for work](rachitkumar2953@gmail.com)  
-
-**here**: [portfolio link](https://rachitk.vercel.app)
+- 👉 [portfolio link](https://rachitk.vercel.app)
 
 ### languages and tools 
 <p>

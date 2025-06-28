@@ -19,15 +19,9 @@
 
 - hey folks 🚀  
 - DSA | Development | Design  
-- 🗂️ Check out my [portfolio](https://rachitk.vercel.app)  
+- 🗂️ reach me here at [email for work](rachitkumar2953@gmail.com)  
 
 **here**: [portfolio link](https://rachitk.vercel.app)
-
-
-
-<!-- ### Check out my portfolio -->
-**here**: [portfolio link](https://rachitk.vercel.app)
-
 
 ### languages and tools 
 <p>

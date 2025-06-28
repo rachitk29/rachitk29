@@ -21,10 +21,11 @@
 <br>  
 - hey folks 🚀  
 - DSA | Development | Design  
-- 📩 reach me at [hello@rachitku.com](mailto:hello@rachitku.com)  
+- 📩 reach me at [email for work](mailto:hello@rachitku.com)  
 
 <!-- ### Check out my portfolio -->
 **here**: [portfolio link](https://rachitk.vercel.app)
+
 
 ### languages and tools 
 <p>

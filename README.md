@@ -19,9 +19,9 @@
 
 > Frontend Developer  
 <br>  
-- hey folks 🚀  
+- hey folks 🚀 <br>
 - DSA | Development | Design  <br>
-- 📩 reach me at [portfolio link](https://rachitk.vercel.app)
+- 📩 reach me at [portfolio link] (https://rachitk.vercel.app)
 
 <!-- ### Check out my portfolio -->
 **here**: [portfolio link](https://rachitk.vercel.app)

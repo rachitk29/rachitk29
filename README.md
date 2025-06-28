@@ -20,8 +20,8 @@
 > Frontend Developer  
 <br>  
 - hey folks 🚀  
-- DSA | Development | Design  
-- 📩 reach me at [email for work](mailto:hello@rachitku.com)  
+- DSA | Development | Design  <br>
+- 📩 reach me at [portfolio link](https://rachitk.vercel.app)
 
 <!-- ### Check out my portfolio -->
 **here**: [portfolio link](https://rachitk.vercel.app)

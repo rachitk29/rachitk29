@@ -21,7 +21,7 @@
 <br>
 - hey folks 🚀
 - DSA | Development | Design
-- reach me at 📫 [email for work](rachitkumar2953@gmail.com)
+- reach me at [email for work](rachitkumar2953@gmail.com)
 </div>
 </div>
 

@@ -17,16 +17,14 @@
   <img src="https://media1.giphy.com/media/jTMw980OBX5YEAulPm/200w.webp?cid=ecf05e47j9zw1kwjhpjfz4gl5081x8mumvwrmjlzomk0e7na&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100px"/>
 </div>
 
-> Frontend Developer <br>
-<br>
-- hey folks 🚀
-- DSA | Development | Design
-- reach me at [email for work](rachitkumar2953@gmail.com)
-</div>
-</div>
+> Frontend Developer  
+<br>  
+- hey folks 🚀  
+- DSA | Development | Design  
+- 📩 reach me at [hello@rachitku.com](mailto:hello@rachitku.com)  
 
-<!--###      Check out my portfolio -->
- **here** : [portfolio link](rachitk.vercel.app)
+<!-- ### Check out my portfolio -->
+**here**: [portfolio link](https://rachitk.vercel.app)
 
 ### languages and tools 
 <p>

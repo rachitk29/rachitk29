@@ -7,7 +7,7 @@
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-blue?style=social&logo=codeforces)](https://codeforces.com/profile/rachitkatariya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-yellow?style=social&logo=leetcode)](https://leetcode.com/rachitk29)
-[![Github](https://img.shields.io/github/followers/rachitk29?label=Follow&style=social)](https://github.com/rachitk29)
+[![Github](https://img.shields.io/github/followers/rachitk29?label=Followers&style=social)](https://github.com/rachitk29)
 
 
 <div align="center">

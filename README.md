@@ -22,7 +22,7 @@
 ### languages and tools 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,git,github,vscode,figma,html,css,js,bootstrap,tailwind,react,redux,nodejs,express,postman,mysql,mongodb,materialui,npm,powershell,replit,stackoverflow,vite"/>
+    <img src="https://skillicons.dev/icons?i=cpp,java,git,figma,js,tailwind,react,redux,nodejs,express,postman,mysql,mongodb,vite"/>
   </a>
 </p>
 <div align="center">

@@ -20,11 +20,10 @@
 - 👉 [portfolio link](https://rachitk.vercel.app)
 
 ### languages and tools 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,git,figma,js,tailwind,react,redux,nodejs,express,postman,mysql,mongodb,vite"/>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,git,figma,js,tailwind,react,redux,nodejs,express,postman,mysql,mongodb,vite" width="400"/>
 </p>
+
 <div align="center">
    
 ### 🌻 love what i do? 

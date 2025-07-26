@@ -19,8 +19,9 @@
 - reach me here at [email for work](rachitkumar2953@gmail.com)  
 - [portfolio link](https://rachitk.vercel.app)
 
-<p align="center"> </> skills </p>
+<p align="center"><b>&lt;/&gt; Skills</b></p>
 
+<p align="center"> </> skills </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,git,figma,js,tailwind,react,redux,nodejs,express,postman,mysql,mongodb,vite" width="400"/>
 </p>

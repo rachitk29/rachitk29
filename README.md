@@ -16,10 +16,14 @@
 
 - hey folks 🚀  
 - DSA | Development | Design  
-- 🗂️ reach me here at [email for work](rachitkumar2953@gmail.com)  
-- 👉 [portfolio link](https://rachitk.vercel.app)
+- reach me here at [email for work](rachitkumar2953@gmail.com)  
+- [portfolio link](https://rachitk.vercel.app)
 
-### languages and tools 
+#<div align="center">
+   
+### </> skills
+</div>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,git,figma,js,tailwind,react,redux,nodejs,express,postman,mysql,mongodb,vite" width="400"/>
 </p>
@@ -29,10 +33,10 @@
 ### 🌻 love what i do? 
 </div>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share them..!</p>
+<p align="center"> ♡ If you like my projects, give them ⭐ and share them..!</p>
 <div align="center">
    
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rachitkatariya-19&left_color=Purple&right_color=#e754808)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rachitk29-19&left_color=Purple&right_color=#e754808)
 
 </div>
 

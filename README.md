@@ -16,12 +16,10 @@
 
 - hey folks 🚀  
 - DSA | Development | Design  
-- reach me here at [email for work](rachitkumar2953@gmail.com)  
-- [portfolio link](https://rachitk.vercel.app)
+- reach me here at <a href="mailto:rachitkumar2953@gmail.com" style="text-decoration: none;">email for work</a>  
+- <a href="https://rachitk.vercel.app" style="text-decoration: none;">portfolio link</a>
 
 <p align="center"><b>&lt;/&gt; Skills</b></p>
-
-<p align="center"> </> skills </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,git,figma,js,tailwind,react,redux,nodejs,express,postman,mysql,mongodb,vite" width="400"/>
 </p>

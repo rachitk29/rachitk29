@@ -21,7 +21,7 @@
 
 <p align="center"><b>&lt;/&gt; Skills</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,git,figma,js,tailwind,react,redux,nodejs,express,postman,mysql,mongodb,vite" width="500"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,git,figma,js,tailwind,react,redux,nodejs,express,postman,mysql,mongodb,vite" width="600"/>
 </p>
 
 <br>

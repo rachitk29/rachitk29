@@ -19,19 +19,13 @@
 - reach me here at [email for work](rachitkumar2953@gmail.com)  
 - [portfolio link](https://rachitk.vercel.app)
 
-#<div align="center">
-   
-### </> skills
-</div>
+<p align="center"> </> skills </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,git,figma,js,tailwind,react,redux,nodejs,express,postman,mysql,mongodb,vite" width="400"/>
 </p>
 
-<div align="center">
-   
-### 🌻 love what i do? 
-</div>
+<br>
 
 <p align="center"> ♡ If you like my projects, give them ⭐ and share them..!</p>
 <div align="center">
